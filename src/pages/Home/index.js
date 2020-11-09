@@ -8,7 +8,7 @@ import Arrow from '../../assets/vector/arrow.png';
 
 const Home = ({ navigation }) => {
     function handleNavigate() {
-        navigation.navigate('Login');
+        navigation.navigate('/recommendations');
     }
 
     return (

@@ -33,7 +33,7 @@ export const Button = styled.TouchableOpacity`
     flex-direction: row;
     justify-content: space-between;
     background-color: ${colors.orchid};
-    padding: 20px 20px;
+    padding: 15px 40px;
     border-radius: 15px;
 `;
 
